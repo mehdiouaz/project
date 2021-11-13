@@ -1,0 +1,18 @@
+.btn {
+  border-style: solid;
+  background: transparent;
+  padding: 0px 16px;
+  font-size: 1.1rem;
+  color: rgb(255, 0, 0);
+  background: rgb(252, 3, 3);
+  border-radius: 5px;
+  transition: 0.3s all ease-out;
+  cursor: pointer;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+.btn:hover {
+  color: rgb(250, 3, 3);
+  background: rgb(255, 0, 0);
+}
